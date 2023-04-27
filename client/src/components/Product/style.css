@@ -1,0 +1,38 @@
+.product-component__name {
+    color: black;
+    display: -webkit-box;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    text-decoration: none;
+
+    font-size: 14px;
+}
+
+.product-component__price {
+    font-size: 14px;
+}
+
+.product-component__thumbnail {
+    position: relative;
+}
+
+.product-component__thumbnail > img {
+    width: 100%;
+}
+
+.thumbnail-hover {
+    position: absolute;
+    top: 0;
+    left: 0;
+    transition: opacity 0.4s ease;
+}
+
+.hide {
+    opacity: 0;
+}
+
+.product-component {
+    text-decoration: none;
+}

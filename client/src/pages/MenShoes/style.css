@@ -1,0 +1,6 @@
+.men-shose__products {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    grid-column-gap: 30px;
+    grid-row-gap: 30px;
+}
