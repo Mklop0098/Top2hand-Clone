@@ -105,36 +105,7 @@
 .right__btn {
     width: 60%;
     height: 50px;
-    text-transform: uppercase;
-    border: none;
     font-weight: 500;
-    position: relative;
-    background-color: white;
-    border: 1px solid #0490db;
-    transition: all 0.3s ease-in-out;
-    color: white;
-}
-
-.right__btn:hover {
-    color: black;
-}
-
-.right__btn::after {
-    content: "";
-    height: 100%;
-    width: 100%;
-    background-color: #0490db;
-    position: absolute;
-    top: 0;
-    left: 0;
-    right: auto;
-    transition: all 0.5s ease-in-out;
-}   
-
-.right__btn:hover:after {
-    width: 0%;
-    right: 0;
-    left: auto;
 }
 
 .right__btn > span {

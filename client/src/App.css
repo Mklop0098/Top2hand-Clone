@@ -13,3 +13,36 @@ a {
   text-decoration: none;
   color: black;
 }
+
+.button-container {
+
+  text-transform: uppercase;
+  border: none;
+  position: relative;
+  background-color: white;
+  border: 1px solid #0490db;
+  transition: all 0.3s ease-in-out;
+  color: white;
+}
+
+.button-container:hover {
+  color: black;
+}
+
+.button-container::after {
+  content: "";
+  height: 100%;
+  width: 100%;
+  background-color: #0490db;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: auto;
+  transition: all 0.5s ease-in-out;
+}   
+
+.button-container:hover:after {
+  width: 0%;
+  right: 0;
+  left: auto;
+}

@@ -59,7 +59,7 @@ export const ProductBody:React.FC<ProductBodyProps> = (props) => {
                     <span>{quantity}</span>
                     <button onClick={() => setQuantity(quantity + 1)}>+</button>
                 </div>
-                <button className='right__btn' onClick={handleAddToCart}><span>Thêm vào giỏ</span></button>
+                <button className='right__btn button-container' onClick={handleAddToCart}><span>Thêm vào giỏ</span></button>
                 <div className='right__description'>
                     <span>Mô tả</span>
                     <ul>

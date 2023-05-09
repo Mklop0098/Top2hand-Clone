@@ -1,5 +1,3 @@
-import { useCartContext } from "./Context/Cart/cart.context";
-import { Products } from "./data";
 
 export const formatCurrency = (currency = 0, formatter = "vi-VN") => {
     if (typeof currency === 'string') currency = parseInt(currency);
