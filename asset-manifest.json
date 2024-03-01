@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/top2hand/static/css/main.e0b0bdf5.css",
-    "main.js": "/top2hand/static/js/main.99b06aa7.js",
-    "static/js/787.c4e7f8f9.chunk.js": "/top2hand/static/js/787.c4e7f8f9.chunk.js",
-    "static/media/bander.jpg": "/top2hand/static/media/bander.7994f0c9445d1bcb73fb.jpg",
-    "static/media/product2.webp": "/top2hand/static/media/product2.dee86cdc8af79ef191f9.webp",
-    "static/media/product3.webp": "/top2hand/static/media/product3.49415e7459312cc36360.webp",
-    "static/media/product1.jpg": "/top2hand/static/media/product1.7bf88198c7995a59702a.jpg",
-    "static/media/product5.webp": "/top2hand/static/media/product5.778acd9d93ad30e8e214.webp",
-    "static/media/product4.webp": "/top2hand/static/media/product4.76daf5eaab96385ecf6c.webp",
-    "static/media/block1.webp": "/top2hand/static/media/block1.18d6b7fa2b791be0c58e.webp",
-    "static/media/block2.webp": "/top2hand/static/media/block2.e7d17bc0df523e7c72b3.webp",
-    "static/media/block3.webp": "/top2hand/static/media/block3.56baa8619139e97d2efd.webp",
-    "static/media/footer.jpg": "/top2hand/static/media/footer.1d8ac25974aa50ba9f57.jpg",
-    "static/media/logo.webp": "/top2hand/static/media/logo.92b18f3426eff155f4ad.webp",
-    "index.html": "/top2hand/index.html",
-    "main.e0b0bdf5.css.map": "/top2hand/static/css/main.e0b0bdf5.css.map",
-    "main.99b06aa7.js.map": "/top2hand/static/js/main.99b06aa7.js.map",
-    "787.c4e7f8f9.chunk.js.map": "/top2hand/static/js/787.c4e7f8f9.chunk.js.map"
+    "main.css": "/static/css/main.cde4929f.css",
+    "main.js": "/static/js/main.c6645805.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/bander.jpg": "/static/media/bander.7994f0c9445d1bcb73fb.jpg",
+    "static/media/product2.webp": "/static/media/product2.dee86cdc8af79ef191f9.webp",
+    "static/media/product3.webp": "/static/media/product3.49415e7459312cc36360.webp",
+    "static/media/product1.jpg": "/static/media/product1.7bf88198c7995a59702a.jpg",
+    "static/media/product5.webp": "/static/media/product5.778acd9d93ad30e8e214.webp",
+    "static/media/product4.webp": "/static/media/product4.76daf5eaab96385ecf6c.webp",
+    "static/media/block1.webp": "/static/media/block1.18d6b7fa2b791be0c58e.webp",
+    "static/media/block2.webp": "/static/media/block2.e7d17bc0df523e7c72b3.webp",
+    "static/media/block3.webp": "/static/media/block3.56baa8619139e97d2efd.webp",
+    "static/media/footer.jpg": "/static/media/footer.1d8ac25974aa50ba9f57.jpg",
+    "static/media/logo.webp": "/static/media/logo.92b18f3426eff155f4ad.webp",
+    "index.html": "/index.html",
+    "main.cde4929f.css.map": "/static/css/main.cde4929f.css.map",
+    "main.c6645805.js.map": "/static/js/main.c6645805.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e0b0bdf5.css",
-    "static/js/main.99b06aa7.js"
+    "static/css/main.cde4929f.css",
+    "static/js/main.c6645805.js"
   ]
 }
