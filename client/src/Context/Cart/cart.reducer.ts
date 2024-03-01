@@ -21,7 +21,7 @@ export const cartReducer = (state: Products, action: CartAction): Products => {
         }
         case CartConst.REMOVE_PRODUCT_FROM_CART: {
             return {
-                products: state.products.filter(id => id.id != action.payload.id)
+                products: state.products.filter(id => id.id !== action.payload.id)
             }
         }
 
